@@ -59,4 +59,8 @@ nav ul li a:hover::after{
     display: flex;
 }
 /*--------education-------*/
+/*---------project----*/
+h5{
+    color: #e56c30;
+}
 /*---------Contact---------*/
